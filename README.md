@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arunov1
-- 👀 I’m interested in python,Java,html,sql
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in Java,html,sql
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me ...
 
 <!---
